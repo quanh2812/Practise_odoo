@@ -1,3 +1,6 @@
 Day la cau lenh tao addon moi
 
 '/home/user/dev/odoo/base/venv/bin/python2' '/home/user/dev/odoo/base/odoo-bin' scaffold kiu_sale_order_advanced '/home/user/dev/odoo/kiu_addons/kiuaddons2' 
+
+
+Thang ben Desktop pull ve di em oi
